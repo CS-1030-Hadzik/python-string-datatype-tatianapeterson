@@ -10,7 +10,7 @@
 >  - Escape Character `[\n \r \t \' \\ \b \f \ooo \xhh]`
 
  ## String Indexing
->- Each character has an index
+>- Each character has an index 
 >
 >|Char#  |1  |2  |3  |4  |5  |6  |7  |8  |9  |10 |11|
 >|:-:    |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
